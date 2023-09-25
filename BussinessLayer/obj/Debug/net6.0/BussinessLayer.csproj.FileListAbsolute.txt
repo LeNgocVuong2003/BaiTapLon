@@ -1,0 +1,17 @@
+D:\baiTH\baitaplon\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.AssemblyReference.cache
+D:\baiTH\baitaplon\BussinessLayer\obj\Debug\net6.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\baiTH\baitaplon\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfoInputs.cache
+D:\baiTH\baitaplon\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfo.cs
+D:\baiTH\baitaplon\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CoreCompileInputs.cache
+D:\baiTH\baitaplon\BussinessLayer\bin\Debug\net6.0\BussinessLayer.deps.json
+D:\baiTH\baitaplon\BussinessLayer\bin\Debug\net6.0\BussinessLayer.dll
+D:\baiTH\baitaplon\BussinessLayer\bin\Debug\net6.0\BussinessLayer.pdb
+D:\baiTH\baitaplon\BussinessLayer\bin\Debug\net6.0\Model.dll
+D:\baiTH\baitaplon\BussinessLayer\bin\Debug\net6.0\Model.pdb
+D:\baiTH\baitaplon\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CopyComplete
+D:\baiTH\baitaplon\BussinessLayer\obj\Debug\net6.0\BussinessLayer.dll
+D:\baiTH\baitaplon\BussinessLayer\obj\Debug\net6.0\refint\BussinessLayer.dll
+D:\baiTH\baitaplon\BussinessLayer\obj\Debug\net6.0\BussinessLayer.pdb
+D:\baiTH\baitaplon\BussinessLayer\obj\Debug\net6.0\ref\BussinessLayer.dll
+D:\baiTH\baitaplon\BussinessLayer\bin\Debug\net6.0\DataAccess.dll
+D:\baiTH\baitaplon\BussinessLayer\bin\Debug\net6.0\DataAccess.pdb

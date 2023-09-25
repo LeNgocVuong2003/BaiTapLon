@@ -1,0 +1,15 @@
+D:\baiTH\baitaplon\DataAcessLayer\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\baiTH\baitaplon\DataAcessLayer\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\baiTH\baitaplon\DataAcessLayer\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\baiTH\baitaplon\DataAcessLayer\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\baiTH\baitaplon\DataAcessLayer\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\baiTH\baitaplon\DataAcessLayer\bin\Debug\net6.0\DataAccess.deps.json
+D:\baiTH\baitaplon\DataAcessLayer\bin\Debug\net6.0\DataAccess.dll
+D:\baiTH\baitaplon\DataAcessLayer\bin\Debug\net6.0\DataAccess.pdb
+D:\baiTH\baitaplon\DataAcessLayer\bin\Debug\net6.0\Model.dll
+D:\baiTH\baitaplon\DataAcessLayer\bin\Debug\net6.0\Model.pdb
+D:\baiTH\baitaplon\DataAcessLayer\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\baiTH\baitaplon\DataAcessLayer\obj\Debug\net6.0\DataAccess.dll
+D:\baiTH\baitaplon\DataAcessLayer\obj\Debug\net6.0\refint\DataAccess.dll
+D:\baiTH\baitaplon\DataAcessLayer\obj\Debug\net6.0\DataAccess.pdb
+D:\baiTH\baitaplon\DataAcessLayer\obj\Debug\net6.0\ref\DataAccess.dll
